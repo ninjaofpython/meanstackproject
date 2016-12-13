@@ -10,7 +10,7 @@
   .state('auth', {
       url: '/auth',
       templateUrl: 'app/auth/auth.html',
-      controller: 'AuthContoller',
+      controller: 'AuthController',
       controllerAs: 'auth'
     });
 
